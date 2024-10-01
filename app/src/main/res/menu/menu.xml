@@ -5,14 +5,14 @@
     <item
         android:id="@+id/menu_navigate"
         android:icon="@drawable/home"
-        android:title="Go to Fragment"
+        android:title="Fragment"
         app:showAsAction="never" /> <!-- Show only in overflow -->
 
     <!-- Second menu option: Open a dialog -->
     <item
         android:id="@+id/menu_dialog"
         android:icon="@drawable/exit"
-        android:title="Open Dialog"
+        android:title="Dialog"
         app:showAsAction="never" /> <!-- Show only in overflow -->
 
     <!-- Third menu option: Overflow menu with Exit submenu -->
