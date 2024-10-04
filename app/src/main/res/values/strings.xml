@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BottomNavigation-Japson</string>
+    <string name="app_name">Your App Name</string>
+    <string name="task_icon">Task Icon</string>
+    <!-- Add other string resources here -->
 </resources>
